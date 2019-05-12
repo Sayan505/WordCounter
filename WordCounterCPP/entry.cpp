@@ -2,7 +2,7 @@
 #include <string>
 #include <regex>
 
-int main() {
+int main(int argc, char** argv) {
 	while (1) {
 		//init
 		std::string x;
